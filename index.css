@@ -1,0 +1,14 @@
+.my-div {
+  background-color: #1F2937;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+.flex-container {
+  flex-wrap: wrap;
+}
+
+.flex-item {
+  flex-grow: 1;
+}
